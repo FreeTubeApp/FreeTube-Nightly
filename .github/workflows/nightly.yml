@@ -48,7 +48,7 @@ jobs:
         if [[ $(git log --since=1.days) ]]; then
           echo "New commits found"
           echo "new_commit=true" >> $GITHUB_OUTPUT
-          git log --since=1.days 1> ../nightly-${{github.run_number}}/nightly-changes.txt
+          git log --pretty=format:"%h - %an, %ar : %s" --since=1.days 1> ../nightly-${{github.run_number}}/nightly-changes.txt
           cd ..
           rm -r FreeTube
           git add *
