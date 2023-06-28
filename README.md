@@ -1,6 +1,6 @@
 # FreeTube Nightlies
 
-[![nightly](https://github.com/ChunkyProgrammer/FreeTube-Nightly/actions/workflows/nightly.yml/badge.svg)](https://github.com/ChunkyProgrammer/FreeTube-Nightly/actions/workflows/nightly.yml)
+[![nightly](https://github.com/FreeTubeApp/FreeTube-Nightly/actions/workflows/nightly.yml/badge.svg)](https://github.com/FreeTubeApp/FreeTube-Nightly/actions/workflows/nightly.yml)
 
 A repo for nightly releases of [FreeTube](https://github.com/FreeTubeApp/FreeTube).
 
