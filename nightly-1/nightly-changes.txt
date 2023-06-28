@@ -1,11 +1,11 @@
 commit d989af2326bed3bfcef8169ae255f962101be1d5
-Author: Wesley Appler <83597346+lamemakes@users.noreply.github.com>
+Author: Wesley Appler
 Date:   Tue Jun 27 20:44:49 2023 -0400
 
     Fixed incorrect invidious linking (#3711)
 
 commit 518d019a8e7aa7d434ae7bf72c0c7dd6907b6b49
-Author: Mahdi Bagheri <bagheri1378mahdi@gmail.com>
+Author: Mahdi Bagheri
 Date:   Tue Jun 27 21:44:29 2023 +0000
 
     Translated using Weblate (Persian)
@@ -16,19 +16,19 @@ Date:   Tue Jun 27 21:44:29 2023 +0000
     Translate-URL: https://hosted.weblate.org/projects/free-tube/translations/fa/
 
 commit 7c7e0e5d7d1954dd746a764cc59831d94b1e38f5
-Author: absidue <48293849+absidue@users.noreply.github.com>
+Author: absidue
 Date:   Tue Jun 27 19:30:36 2023 +0200
 
     Add back sort by oldest (#3698)
 
 commit 6e0395d58e20629038aa7bb00b8571ab19732c1d
-Author: absidue <48293849+absidue@users.noreply.github.com>
+Author: absidue
 Date:   Tue Jun 27 19:13:48 2023 +0200
 
     Support YouTube's new layout for shorts only playlists (#3708)
 
 commit 2c759b8ba165a359a3f4396051f70889536631fc
-Author: PikachuEXE <pikachuexe@gmail.com>
+Author: PikachuEXE
 Date:   Wed Jun 28 01:04:48 2023 +0800
 
     * Update view to ignore keyboard events caused by user holding keys (#3709)
@@ -36,7 +36,7 @@ Date:   Wed Jun 28 01:04:48 2023 +0800
     No point keep refreshing info on key hold
 
 commit 87a389cce0219dcc86467743622cbb472bc674b5
-Author: absidue <48293849+absidue@users.noreply.github.com>
+Author: absidue
 Date:   Tue Jun 27 13:52:39 2023 +0200
 
     Fix focus related race conditions (#3700)
