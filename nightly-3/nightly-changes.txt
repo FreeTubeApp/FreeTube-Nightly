@@ -1,0 +1,2 @@
+0d10face - PikachuEXE, 2 hours ago : Fix copyToClipboard function (#3762)
+8ab13b52 - absidue, 3 hours ago : Extract published date and views for playlists with the local API (#3767)
